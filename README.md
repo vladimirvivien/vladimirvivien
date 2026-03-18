@@ -1,15 +1,13 @@
-## Vladimir Vivien
-
 Hi 👋
 
 I am Vladimir Vivien, I have been building software 🏗 for couple of decades — from enterprise software to full-time open source engineering on Kubernetes and the cloud-native ecosystem.
 
-### 📧 Contact
+## 📧 Contact
 
 * **Website** - [vladimirvivien.com](https://www.vladimirvivien.com/)
 * **LinkedIn** - [linkedin.com/vvivien](https://www.linkedin.com/in/vvivien/)
 
-### 📖 Publications
+## 📖 Publications
 
 * **Medium** - [medium.com/@vladimirvivien](https://medium.com/@vladimirvivien)
 * **Author** of the following books:
@@ -17,7 +15,7 @@ I am Vladimir Vivien, I have been building software 🏗 for couple of decades �
   * [Go Design Patterns for Real-World Projects](https://www.packtpub.com/product/go-design-patterns-for-real-world-projects/9781788390552) (co-author)
  
 
-### 🛠️ My Projects
+## 🛠️ My Projects
 * [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components 
 * [ktop](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics
 * [automi](https://github.com/vladimirvivien/automi) - Package to build composable stream processing pipelines
