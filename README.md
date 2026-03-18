@@ -17,8 +17,9 @@ I am Vladimir Vivien, I have been building software 🏗 for couple of decades �
   * [Go Design Patterns for Real-World Projects](https://www.packtpub.com/product/go-design-patterns-for-real-world-projects/9781788390552) (co-author)
  
 
-### 🛠️ Projects
-* [ktop](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes metrics
-* [automi](https://github.com/vladimirvivien/automi) - Package to build componsable stream processing
-* [gexe](https://github.com/vladimirvivien/gexe) - Package for building script-like Go for automation
-* [go4vl]() - Exposes idiomatic Go interfaces to the Video for Linux (V4L2) APIs
+### 🛠️ My Projects
+* [e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components 
+* [ktop](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics
+* [automi](https://github.com/vladimirvivien/automi) - Package to build composable stream processing pipelines
+* [gexe](https://github.com/vladimirvivien/gexe) - Build script-like Go code for automation
+* [go4vl](https://github.com/kubernetes-sigs/e2e-framework) - Exposes idiomatic Go interfaces to the Video for Linux (V4L2) APIs
