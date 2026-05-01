@@ -8,12 +8,12 @@ I am Vladimir Vivien, I have been building software 🏗 for couple of decades �
 * **LinkedIn** - [linkedin.com/vvivien](https://www.linkedin.com/in/vvivien/)
 
 ## 🛠️ My Projects
-🤖 [**litertlm-go**](https://github.com/vladimirvivien/litertlm-go) - Go bindings for Google's [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) local LLM inference on edge devices <br/>
-⚓️ [**e2e-framework**](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components <br/>
-📊 [**ktop**](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics <br/>
-🦾 [**automi**](https://github.com/vladimirvivien/automi) - Package to build composable stream processing pipelines <br/>
-🖥️ [**gexe**](https://github.com/vladimirvivien/gexe) - Build script-like Go code for automation <br/>
-🎥 [**go4vl**](https://github.com/kubernetes-sigs/e2e-framework) - Exposes idiomatic Go interfaces to the Video for Linux (V4L2) APIs
+🔵 [**litertlm-go**](https://github.com/vladimirvivien/litertlm-go) - Go bindings for Google's [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) local LLM inference on edge devices <br/>
+🔵 [**e2e-framework**](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components <br/>
+🔵 [**ktop**](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics <br/>
+🔵 [**automi**](https://github.com/vladimirvivien/automi) - Package to build composable stream processing pipelines <br/>
+🔵 [**gexe**](https://github.com/vladimirvivien/gexe) - Script-like Go code for automation <br/>
+🔵 [**go4vl**](https://github.com/kubernetes-sigs/e2e-framework) - Exposes idiomatic Go interfaces to the Video for Linux (V4L2) APIs
 
 ## 📖 Publications
 
