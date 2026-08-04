@@ -8,6 +8,7 @@ I am Vladimir Vivien, I have been building software 🏗 for couple of decades �
 * **LinkedIn** - [linkedin.com/vvivien](https://www.linkedin.com/in/vvivien/)
 
 ## 🛠️ My Projects
+🔵 [**Starkite**](https://starkite.ai/) - Starlark scripting runtime for system, cloud, and agent automation <br/>
 🔵 [**litertlm-go**](https://github.com/vladimirvivien/litertlm-go) - Go bindings for Google's [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) local LLM inference on edge devices <br/>
 🔵 [**e2e-framework**](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components <br/>
 🔵 [**ktop**](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics <br/>
