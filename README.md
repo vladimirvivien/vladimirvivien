@@ -10,7 +10,7 @@ Currently building [Starkite.AI](https://starkite.ai/) 🪁 - a secure scripting
 * **LinkedIn** - [linkedin.com/vvivien](https://www.linkedin.com/in/vvivien/)
 
 ## 🛠️ My Projects
-🔵 [**robo 🤖**](https://github.com/vladimirvivien/robo) - A local AI assistant for system operations at the terminal
+🔵 [**robo**](https://github.com/vladimirvivien/robo) 🤖 - A local AI assistant to help do simple tasks in the terminal <br/>
 🔵 [**Starkite**](https://starkite.ai/) - Starlark scripting runtime for system, cloud, and agent automation <br/>
 🔵 [**litertlm-go**](https://github.com/vladimirvivien/litertlm-go) - Go bindings for Google's [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) local LLM inference on edge devices <br/>
 🔵 [**e2e-framework**](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components <br/>
