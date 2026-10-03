@@ -3,7 +3,7 @@ Hi 👋
 I am Vladimir Vivien, I have been building software 🏗 for couple of decades — from enterprise software to full-time open source engineering on Kubernetes and the cloud-native ecosystem.
 
 ## Starkite 🪁
-Currently building [Starkite](https://starkite.dev/) -- a secure scripting runtime for system, cloud, and agent automation based on Starlark.
+Currently I am building [Starkite](https://starkite.dev/) -- a secure scripting runtime for system, cloud, and agent automation based on Starlark.
 
 ## 📧 Contact
 
@@ -12,7 +12,6 @@ Currently building [Starkite](https://starkite.dev/) -- a secure scripting runti
 
 ## 🛠️ My Projects
 🔵 [**robo**](https://github.com/vladimirvivien/robo) 🤖 - A local AI assistant to help do simple tasks in the terminal <br/>
-🔵 [**Starkite**](https://starkite.ai/) - Starlark scripting runtime for system, cloud, and agent automation <br/>
 🔵 [**litertlm-go**](https://github.com/vladimirvivien/litertlm-go) - Go bindings for Google's [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) local LLM inference on edge devices <br/>
 🔵 [**e2e-framework**](https://github.com/kubernetes-sigs/e2e-framework) - Write Go end-to-end tests for Kubernetes cluster components <br/>
 🔵 [**ktop**](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics <br/>
