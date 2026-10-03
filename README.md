@@ -5,6 +5,10 @@ I am Vladimir Vivien, I have been building software 🏗 for couple of decades �
 ## Starkite 🪁
 Currently I am building [Starkite](https://starkite.dev/) -- a secure scripting runtime for system, cloud, and agent automation based on Starlark.
 
+* [Starkite.Dev](https://starkite.dev) site
+* Starkite GitHub - https://github.com/project-starkite/starkite
+* Introduction to Starkite [blog](https://medium.com/starkite/building-a-clickup-mcp-tool-server-with-starkite-77ac8bd3247f)
+
 ## 📧 Contact
 
 * **Website** - [vladimirvivien.com](https://www.vladimirvivien.com/)
