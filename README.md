@@ -2,7 +2,8 @@ Hi 👋
 
 I am Vladimir Vivien, I have been building software 🏗 for couple of decades — from enterprise software to full-time open source engineering on Kubernetes and the cloud-native ecosystem.
 
-Currently building [Starkite.AI](https://starkite.ai/) 🪁 - a secure scripting runtime for system, cloud, and agent automation based on Starlark.
+## Starkite 🪁
+Currently building [Starkite](https://starkite.dev/) -- a secure scripting runtime for system, cloud, and agent automation based on Starlark.
 
 ## 📧 Contact
 
