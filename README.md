@@ -22,7 +22,7 @@ Founder and builder of [Starkite](https://starkite.dev/) -- a secure scripting r
 🔵 [**ktop**](https://github.com/vladimirvivien/ktop) - a text-ui tool for viewing Kubernetes cluster metrics <br/>
 🔵 [**automi**](https://github.com/vladimirvivien/automi) - Package to build composable stream processing pipelines <br/>
 🔵 [**gexe**](https://github.com/vladimirvivien/gexe) - Script-like Go code for automation <br/>
-🔵 [**go4vl**](https://github.com/vladmirvivien/go4vl) - Exposes idiomatic Go interfaces to the Video for Linux (V4L2) APIs
+🔵 [**go4vl**](https://github.com/vladimirvivien/go4vl) - Exposes idiomatic Go interfaces to the Video for Linux (V4L2) APIs
 
 ## 📖 Publications
 
